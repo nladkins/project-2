@@ -1,0 +1,13 @@
+Motivation
+
+The two largest companies by market capitalization are Google and Apple, according to companies market cap (retrieved on 12/7/2021).  We believe it would be beneficial to perform a comparison of these two companies over the past 15 years to see how they performed against one another during a prolonged period of time.  
+
+Two Data Sets
+
+Microsoft trading data from October 2005 to August 2020.  Apple trading data from October 2005 to August 2020.  
+
+These data sets include date for which trading took place, opening prices, high prices, low prices and closing prices for each session.  Additional data in these files include volume that was traded for that particular session.  
+
+Which Database
+
+We will be using SQL to store the output.
