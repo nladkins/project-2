@@ -4,7 +4,7 @@
 
 ## Background
 
-The two largest companies by market capitalization are Google and Apple, according to Companies Market Cap (retrieved on 12/7/2021).  Performing a comparison of these two companies over the past 15 years to see how they performed against one another was the focus of this project.  However, the only goal was to perform the ETL portion that would lead to an analysis at a later point in time.  In other words, the actually analysis (e.g., plotting, etc.) is not in scope.  
+The two largest companies by market capitalization are Google and Apple, according to Companies Market Cap (retrieved on 12/7/2021).  Performing a comparison of these two companies over the past 15 years to see how they performed against one another was the focus of this project.  However, the only goal was to perform the ETL portion that would lead to an analysis at a later point in time.  In other words, the actual analysis (e.g., plotting, etc.) is not in scope.  
 
 ## Datasets
 
