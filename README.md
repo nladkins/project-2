@@ -16,7 +16,7 @@ Two datasets were retrieved from Kaggle that pertained to Apple and Microsoft tr
 
 Dependencies included Pandas, date time, sqlalchemy, and psycopg2.  
 
-![Dependencies](markdown/dependencies.jpg?raw=true "Title"){:height="50px" width="50px"}
+![image size](/markdown/dependencies.jpg){:height="50px" width="50px"}
 
 
 ### Evaluating the data.
