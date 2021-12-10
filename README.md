@@ -9,6 +9,7 @@ The two largest companies by market capitalization are Google and Apple, accordi
 ## Datasets
 
 Two datasets were retrieved from Kaggle that pertained to Apple and Microsoft trading data (https://www.kaggle.com/nikhilkohli/us-stock-market-data-60-extracted-features).  The timeframe for both company stocks that were analyzed were between October 2005 to August 2020.  These were in .csv format.
+![Data Preview](markdown/preview_data.jpg?raw=true "Title")
 
 ## Coding
 
