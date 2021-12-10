@@ -23,7 +23,9 @@ Dependencies included Pandas, date time, sqlalchemy, and psycopg2.
 
 The Microsoft data (MSFT.csv) and the Apple data (AAPL.csv) was imported and the data was previewed using Pandas.  There were ~64 columns of data.  The first thing that was done is that the data was filtered (iloc) to six columns which was the trading date, the opening price, high and low prices for each session, the closing price, and the volume that was exchanged for each session.  These were still two separate data frames for each of the companies.
 
-![Data Preview](markdown/preview_data.jpg?raw=true "Title"){:height="100px" width="125px"}  ![Data Preview](markdown/cleaning.jpg.jpg?raw=true "Title"){:height="100px" width="125px"}
+![Data Preview](markdown/preview_data.jpg?raw=true "Title"){:height="100px" width="125px"}  
+
+![Data Preview](markdown/cleaning.jpg.jpg?raw=true "Title"){:height="100px" width="125px"}
 
 
 ### Data Cleansing
